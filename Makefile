@@ -7,7 +7,6 @@ PROJECT  := project_name
 # ------------------
 CC  := gcc
 RM  := rm -rf
-MK  := mkdir -p
 
 # --------------------
 # Directories & Files
