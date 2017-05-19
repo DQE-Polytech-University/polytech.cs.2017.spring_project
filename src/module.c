@@ -1,3 +1,11 @@
+/** @file module.c
+ *  @brief Example module (source)
+ *
+ *  This is an example. Please, change the description.
+ *
+ *  @author Name Surname - xxx@spbstu.ru
+ */
+
 #include "module.h"
 
 float sqr(float x)
